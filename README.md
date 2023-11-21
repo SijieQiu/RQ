@@ -139,5 +139,7 @@ Ensure ethical data handling, especially when dealing with images or personal da
 |IncreaseAttract   |Increase in Trustedness by Experimenter Make-up
 |Hypothesis        |1: Wearing makeup increases perceived attractiveness.2: Wearing makeup increases perceived trustworthines 3: Trustees with makeup receive larger transfers in the trust game than trustees without makeup. 4: Male trustors transfer more money to women with makeup than female trustors.5: The makeup effect is larger in magnitude for less attractive female trustees.
 
-```This column contains all of the data used in The Beauty Premium dataset published in 24 Sep 2019. For specifics on this database you can look at [here](https://doi.org/10.1016/j.joep.2020.102252).```
+```This column contains all of the data used in The Beauty Premium dataset published in 24 Sep 2019. ```
+
+For specifics on this database you can look at [here](https://doi.org/10.1016/j.joep.2020.102252).
 
