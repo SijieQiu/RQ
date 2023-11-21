@@ -141,5 +141,5 @@ Ensure ethical data handling, especially when dealing with images or personal da
 
 ```This column contains all of the data used in The Beauty Premium dataset published in 24 Sep 2019. ```
 
-For specifics on this database you can look at [here](https://doi.org/10.1016/j.joep.2020.102252).
+For specifics on this database you can look at here [1](https://doi.org/10.1016/j.joep.2020.102252) and [2](https://data.mendeley.com/datasets/553zngdbpk/).
 
