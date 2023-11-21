@@ -8,7 +8,11 @@
   In 2020, [Is the beauty premium accessible to all? An experimental analysis](https://www.sciencedirect.com/science/article/pii/S016748702030009X)Demonstrates that by using cosmetics, women can more easily access the beauty premium, which is not just an immutable attribute. When people use cosmetics for visual manipulation, not only do attractiveness perceptions increase, but so do other attributes (e.g., perceived trustworthiness), implying that women receive greater transfers in a trusting environment. The experiments also found that this effect was not direct, but fully mediated by trustworthiness. This effect is particularly pronounced among less attractive women. Thus, to some extent, people can strategically manipulate perceived trustworthiness through the use of visual resources such as cosmetics, photo filters (e.g., Instagram filters), and so on. These resources may not only provide intra-personal benefits, such as increased self-confidence, but it may also increase the effectiveness of interpersonal interactions that require cooperation, coordination, and trust. Finally, visual manipulation of appearance may not only affect women. If men choose to alter their facial appearance by growing a beard or wearing makeup, it may have the same effect on trust.This opens up new avenues for research.
   
 # 2.Research Question
-***Does the beauty premium or beauty penalty work equally well on second-hand online trading platforms?***
+
+***a.To what extent does attractiveness influence entrepreneurial opportunities or customer behavior? On male or female seperately?***
+
+ ***b.Does the beauty premium or beauty penalty work equally well on second-hand online trading platforms?***
+ 
 
 ``` To explore the RQ, I'd consider employing a mixed-method approach. Here are a few steps to address the RQ: ```
 
@@ -42,7 +46,48 @@ Limitations and Recommendations: Discuss limitations of the study and offer reco
 
 ```This mixed-method approach allows for a comprehensive exploration of the beauty premium concept on second-hand online trading platforms, considering both quantitative and qualitative perspectives to address the research question effectively.```
 
-# 3.Tools
+# 3.Data needed
+
+***Image Data:***
+
+Item Images: High-resolution photos showing items available for sale, enabling assessments of attractiveness or condition.
+
+User Profile Photos: Images of users involved in transactions, aiding in the analysis of perceived attractiveness.
+
+***Transactional Data:***
+
+Item Details: Descriptions, categories, and prices of listed items to understand their nature.
+
+Seller/Buyer Information: User profiles, transaction history, reviews, and ratings, potentially influencing buyer trust.
+
+Transaction Timestamps: Time and date of transactions to identify patterns over specific periods.
+
+***Additional Data:***
+
+Objective Item Ratings: Quantitative data indicating the condition or quality of items.
+
+Subjective Reviews: Qualitative feedback from buyers/sellers about transaction experiences or item conditions.
+
+User Demographics: User characteristics such as age, gender, or location, if available, to correlate with attractiveness perceptions.
+
+***External Data Sources:***
+Market Trends: Economic indicators or trends impacting second-hand sales.
+
+Competitor Analysis: Data from similar platforms for comparative assessments.
+
+Social Media Analysis: Public sentiment or discussions related to items or platform reputation.
+
+***Metadata:***
+
+Data Collection Details: Documentation on attractiveness assessment methodologies, sources, and collection procedures.
+
+Ethical Guidelines: Details on user consent, data anonymization methods, and ethical considerations during data collection and usage.
+
+***Ethical Considerations:***
+
+Consent and Privacy: Ensure proper consent for image usage and protection of user privacy and sensitive information.
+
+# 4.Tools
 
 ```Following are some tools that might be helpful in the process:```
 
@@ -78,7 +123,7 @@ Infographic Tools: Tools like Canva or Piktochart for creating visual summaries 
 
 Ensure ethical data handling, especially when dealing with images or personal data. Follow ethical guidelines for participant consent and anonymization.
 
-# 4.Dataset
+# 5.Dataset
 
 |Header|Description|
 |-|-|
